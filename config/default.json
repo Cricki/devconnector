@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://root:samsung12@cluster0-10oic.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
